@@ -1,7 +1,9 @@
-# On se tape de bars
+# On se tape des bars
 
 Bot discord pour choisir un bar au hasard dans une liste.
 
-La liste des bars est dans `bars.toml`.
+La liste des bars pour Grenoble est dans `bars.toml`.
 
-[Pour inviter le bot (version grenobloise)](https://discord.com/api/oauth2/authorize?client_id=940971163474100254&permissions=67584&scope=bot)
+TODO:
+- Faire un système de critères (babyfoot, fléchettes, billard, miam...)
+- Répondre avec un joli embed (+ lien Google Maps pour les non-libristes ?)
